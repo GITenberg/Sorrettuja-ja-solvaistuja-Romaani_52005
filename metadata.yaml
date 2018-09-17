@@ -1,0 +1,32 @@
+_repo: Sorrettuja-ja-solvaistuja-Romaani_52005
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Dostoyevsky, Fyodor
+    aliases:
+    - Dostoevsky, Fyodor
+    - Dostoievski, Fiodor
+    - Достоевский, Фёдор Михайлович
+    - Dostoievski, Fédor Mikhailovitch
+    - Dostoyevsky, F. M.
+    - Dostoievski, Fedor Mikhailovitch
+    birthdate: 1821
+    deathdate: 1881
+    gutenberg_agent_id: '314'
+    url: http://www.gutenberg.org/2009/agents/314
+    wikipedia: http://en.wikipedia.org/wiki/Fyodor_Dostoevsky
+description: ''
+gutenberg_issued: '2016-05-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52005'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Russian fiction -- Translations into Finnish'
+- !lcc 'PG'
+- GITenberg
+title: 'Sorrettuja ja solvaistuja: Romaani'
+url: http://www.gutenberg.org/ebooks/52005
